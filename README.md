@@ -1,2 +1,5 @@
-# exemplo-repository
-Exemplo de repositório para desenvolvimento web.
+# meu projeto Git
+## Criando repositório
+
+exemplo de repositório
+
