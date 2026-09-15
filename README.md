@@ -1,5 +1,5 @@
 # meu projeto Git
 ## Criando repositório
 
-exemplo de repositório
+exemplo de repositório.
 
